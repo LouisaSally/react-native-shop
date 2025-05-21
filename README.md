@@ -43,7 +43,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/react-native-shop.git
+git [clone https://github.com/yourusername/react-native-shop.git](https://github.com/LouisaSally/react-native-shop)
 cd react-native-shop
 ```
 
@@ -121,7 +121,3 @@ npx react-native run-android
 cd ios && pod install && cd ..
 npx react-native run-ios
 ```
-
-## License
-
-This project is MIT licensed.
