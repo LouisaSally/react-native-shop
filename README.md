@@ -82,12 +82,12 @@ npx react-native run-android
 ## Application Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home_screen.jpeg)
 
 The home screen displays circular icons representing different categories: You, Home, Love, Family, Friends, and School.
 
 ### Messages Screen
-![Messages Screen](screenshots/messages_screen.png)
+![Messages Screen](screenshots/messages_screen.jpeg)
 
 When a category is selected, the messages screen displays a list of related messages.
 
